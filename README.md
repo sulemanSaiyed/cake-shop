@@ -16,7 +16,7 @@ A visually appealing, interactive cake showcase slider designed for a bakery or 
 
 ## Preview
 
-![Cake Shop Slider](./public/kk.png)
+![Cake Shop Slider](./vite-project/public/kk.png)
 
 ---
 
