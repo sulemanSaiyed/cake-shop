@@ -1,12 +1,28 @@
-# React + Vite
+# Cake Shop Slider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing, interactive cake showcase slider designed for a bakery or cake shop website. This slider highlights different cake flavors with images, descriptions, and navigation controls.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Beautiful UI**: Modern design with vibrant colors and high-quality cake images.
+- **Flavor Highlight**: Each slide showcases a cake flavor like Strawberry, Raspberry, Cocoa, Carrot, Pista Rose, Black Currant, Lemon, etc.
+- **Navigation Controls**: Left and right arrows to easily navigate between cakes.
+- **Responsive Design**: Looks great on both desktop and mobile devices.
+- **Animated Slider**: Smooth transitions between cake images for a delightful user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Preview
+
+![Cake Shop Slider](./public/kk.png)
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SalmanSayed/cake-shop-slider.git
