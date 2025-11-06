@@ -20,7 +20,7 @@ A visually appealing, interactive cake showcase slider designed for a bakery or 
 
 ---
 
-## Installation
+## Installationssssssssssssss
 
 1. Clone the repository:
 
